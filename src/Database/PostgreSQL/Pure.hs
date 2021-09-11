@@ -111,7 +111,7 @@ module Database.PostgreSQL.Pure
   , CommandTag (..)
   , Query (..)
   , FormatCode (..)
-  , ColumnInfo
+  , ColumnInfo (..)
   , Message
   , MessageResult
   , Bind

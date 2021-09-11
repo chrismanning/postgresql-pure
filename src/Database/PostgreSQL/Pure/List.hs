@@ -81,7 +81,7 @@ module Database.PostgreSQL.Pure.List
   , CommandTag (..)
   , Query (..)
   , FormatCode (..)
-  , ColumnInfo
+  , ColumnInfo (..)
   , Message
   , MessageResult
   , Bind
